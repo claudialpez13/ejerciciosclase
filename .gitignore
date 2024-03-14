@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java
+*.class
+
+# Compiled files
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+*.dll
+*.out
+*.app
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+log/
+logs/
+
+# Environment
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Configuration files
+config.local.js
+database.local.yml
+
+# Temporary files
+*.tmp
+*.swp
+*.~
+
+# Secrets and credentials
+secrets.yml
+credentials.json
